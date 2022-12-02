@@ -1,0 +1,13 @@
+<svg width="43.1" height="43.1" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1">
+ <title>іконки 3 копія</title>
+
+ <g>
+  <title>Layer 1</title>
+  <circle id="svg_1" fill="#f7d300" r="16" cy="21.5" cx="21.5" class="st0"/>
+  <path id="svg_2" fill="#FFFFFF" d="m21.5,6.5c8.3,0 15,6.7 15,15s-6.7,15 -15,15s-15,-6.7 -15,-15c0,-8.2 6.8,-15 15,-15m0,-2c-9.4,0 -17,7.6 -17,17s7.6,17 17,17s17,-7.6 17,-17s-7.6,-17 -17,-17z" class="st1"/>
+  <g id="svg_3" enable-background="new" class="st2">
+   <path id="svg_4" fill="#FFFFFF" d="m18.3,27.3l0,-9.3l-3.8,0l0,9.3l-2.2,0l0,-11.3l8.2,0l0,11.3l-2.2,0z" class="st1"/>
+   <path id="svg_5" fill="#FFFFFF" d="m29.1,27.3l0,-4.7l-3.8,0l0,4.7l-2.2,0l0,-11.3l2.2,0l0,4.6l3.8,0l0,-4.6l2.2,0l0,11.3l-2.2,0z" class="st1"/>
+  </g>
+ </g>
+</svg>
